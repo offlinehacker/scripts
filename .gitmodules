@@ -1,0 +1,9 @@
+[submodule "offline.fabfile"]
+	path = offline.fabfile
+	url = https://github.com/offlinehacker/offline.fabfile.git
+[submodule "mobile/taskter"]
+	path = mobile/taskter
+	url = git://gist.github.com/3916925.git
+[submodule "network/ovpn-learnaddress"]
+	path = network/ovpn-learnaddress
+	url = git://gist.github.com/4058733.git

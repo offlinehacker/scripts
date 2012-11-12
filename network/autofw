@@ -1,0 +1,21 @@
+#!/bin/bash
+ESSID=$(iwgetid | sed 's/.*ESSID:"\(.*\)"/\1/')
+WLAN=wlan0
+INTERFACE=$1
+ACTION=$2
+
+echo "Essid is $ESSID"
+echo "running $ESSID $WLAN $INTERFACE $ACTION" > /tmp/fw
+if [ "$ACTION" = "up" -a "$INTERFACE" = "$WLAN" ]; then
+	if [ ! -f "/etc/fw/$ESSID" ]; then
+		echo "Starting default firewall"
+		/etc/fw/default start
+	else
+		echo "Starting $ESSID firewall"
+		/etc/fw/$ESSID start
+	fi
+elif [ "$ACTION" = "down" -a "$INTERFACE" = "$WLAN" ]; then
+	echo "Starting default firewall"
+        /etc/fw/default start
+fi
+

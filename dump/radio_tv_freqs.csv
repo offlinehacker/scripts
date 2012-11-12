@@ -1,0 +1,551 @@
+Channel,CoverageArea,Decision,Frequency,FrequencyUnit,Holder,Location,Programms,ValidTo
+,,38111-10/2012/4,104.1,MHz,HSG d.o.o.,JAVORNIK 2,"[{u'Program': u'Radio Pacient', u'Timesharing': None}]",2016-10-19
+,,38111-10/2012/6,107.4,MHz,HSG d.o.o.,RAVNI-VALVAZOR,"[{u'Program': u'Radio Pacient', u'Timesharing': None}]",2018-10-14
+,,38111-11/2010/21,101.5,MHz,RTV SLOVENIJA,IZOLA 5,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2022-04-20
+,,38111-13/2012/7,103.3,MHz,HSG d.o.o.,ŠMARNA GORA,"[{u'Program': u'Radio Pacient', u'Timesharing': None}]",2019-06-01
+,,38111-14/2012/3,88.2,MHz,RADIO CENTER d.o.o.,TRBOVLJE 1,"[{u'Program': u'RADIO SNOOPY', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2019-06-12
+,,38111-19/2012/7,94.3,MHz,RTV SLOVENIJA,LOŠKI POTOK,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2022-07-16
+,,38111-20/2012/6,94.4,MHz,RTV SLOVENIJA,IZOLA 5,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2022-07-16
+,,38111-25/2012/3,99.5,MHz,RECAL d.o.o.,RADENSKI VRH,"[{u'Program': u'RADIO VIVA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2018-09-26
+,,38111-25/2012/5,102.1,MHz,RECAL d.o.o.,BOGOJINA,"[{u'Program': u'RADIO VIVA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-09-25
+,,38111-26/2012/3,92.3,MHz,GLASNIK d.o.o.,PTUJ 5,"[{u'Program': u'Radio Grom', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-12-05
+,,38111-27/2012/3,100.1,MHz,RADIO PRO 1 d.o.o.,PIRAN 2,"[{u'Program': u'Radio 1 Portoro\u017e; ENA PO', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-03-26
+,,38111-27/2012/3,100.1,MHz,RADIO PRO 1 d.o.o.,PORTOROŽ,"[{u'Program': u'Radio 1 Portoro\u017e; ENA PO', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-03-26
+,,38111-27/2012/3,88.3,MHz,RADIO PRO 1 d.o.o.,MALIJA,"[{u'Program': u'Radio 1 Portoro\u017e; ENA PO', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-03-26
+,,38111-28/2012/3,107.9,MHz,RADIO PRO 1 d.o.o.,LJUBLJANA 3,"[{u'Program': u'Radio 1 107.9; ENA LJ', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2021-05-08
+,,38111-29/2012/3,93.4,MHz,RADIO PRO 1 d.o.o.,KOPER 2,"[{u'Program': u'Radio 1 Obala; ENA KP', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-03-04
+,,38111-30/2011/3,107.5,MHz,UNIVOX d.o.o.,KOČEVJE 2,"[{u'Program': u'RADIO UNIVOX', u'Timesharing': None}]",2013-02-16
+,,38111-30/2012/3,100.4,MHz,RADIO PRO 1 d.o.o.,CERKNICA 2,"[{u'Program': u'Radio 1 Krvavec; ENA KR', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-11-08
+,,38111-30/2012/5,88.4,MHz,RADIO PRO 1 d.o.o.,KRVAVEC,"[{u'Program': u'Radio 1 Krvavec; ENA KR', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2016-02-16
+,,38111-32/2012/3,99.3,MHz,"RADIO CELJSKI VAL, d.o.o.",SVETINA,"[{u'Program': u'RADIO CELJSKI VAL', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-11-16
+,,38111-34/2012/3,106.9,MHz,NOVA NOVA d.o.o. Ajdovščina,AJDOVŠČINA,"[{u'Program': u'RADIO NOVA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2013-07-10
+,,38111-36/2012/3,92.6,MHz,ABC Studio d.o.o.,LJUBLJANA 3,"[{u'Program': u'Radio S', u'Timesharing': None}]",2015-06-16
+,,38111-37/2011/10,100.6,MHz,RTV SLOVENIJA,KUK,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2021-05-26
+,,38111-37/2011/12,94.1,MHz,RTV SLOVENIJA,KUM,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/14,99.9,MHz,RTV SLOVENIJA,KUM,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/16,88.6,MHz,RTV SLOVENIJA,NANOS,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2021-06-13
+,,38111-37/2011/18,103.1,MHz,RTV SLOVENIJA,NANOS,"[{u'Program': u'RADIO CAPODISTRIA', u'Timesharing': None}]",2021-06-13
+,,38111-37/2011/2,93.5,MHz,RTV SLOVENIJA,GRAHOVO,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/20,92.9,MHz,RTV SLOVENIJA,NANOS,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-06-13
+,,38111-37/2011/22,95.3,MHz,RTV SLOVENIJA,NANOS,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-13
+,,38111-37/2011/24,96.3,MHz,RTV SLOVENIJA,OSILNICA 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/26,100.1,MHz,RTV SLOVENIJA,PEČ,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/28,90,MHz,RTV SLOVENIJA,PLEŠIVEC,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/30,92.4,MHz,RTV SLOVENIJA,PLEŠIVEC,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/32,101.4,MHz,RTV SLOVENIJA,PLEŠIVEC,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/34,88.5,MHz,RTV SLOVENIJA,POHORJE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/36,96.9,MHz,RTV SLOVENIJA,POHORJE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/38,93.1,MHz,RTV SLOVENIJA,POHORJE,"[{u'Program': u'RADIO MARIBOR', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/4,97.6,MHz,RTV SLOVENIJA,LJUBLJANA 8,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-05-25
+,,38111-37/2011/4,93.5,MHz,RTV SLOVENIJA,KRIM,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-05-25
+,,38111-37/2011/40,102.8,MHz,RTV SLOVENIJA,POHORJE,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/42,100.3,MHz,RTV SLOVENIJA,SKALNICA,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2021-05-30
+,,38111-37/2011/44,90.9,MHz,RTV SLOVENIJA,TRDINOV VRH,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/46,97.6,MHz,RTV SLOVENIJA,TRDINOV VRH,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/48,100.7,MHz,RTV SLOVENIJA,TRŽIČ 2,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/50,96.9,MHz,RTV SLOVENIJA,TRŽIČ 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/52,93.7,MHz,RTV SLOVENIJA,VOGEL,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/54,100.6,MHz,RTV SLOVENIJA,TRDINOV VRH,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2021-06-08
+,,38111-37/2011/6,96.5,MHz,RTV SLOVENIJA,KRIM,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2021-05-25
+,,38111-37/2011/8,87.8,MHz,RTV SLOVENIJA,KUK,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2021-05-26
+,,38111-37/2012/3,96.8,MHz,"RADIO ANTENA d.o.o., Ljubljana",KRANJ 2,"[{u'Program': u'Radio Antena Ljubljana; Antena LJ', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2017-11-12
+,,38111-37/2012/5,105.2,MHz,"RADIO ANTENA d.o.o., Ljubljana",GROSUPLJE 2,"[{u'Program': u'Radio Antena Ljubljana; Antena LJ', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-10-14
+,,38111-37/2012/5,105.2,MHz,"RADIO ANTENA d.o.o., Ljubljana",LJUBLJANA 3,"[{u'Program': u'Radio Antena Ljubljana; Antena LJ', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-10-14
+,,38111-38/2011/2,91.1,MHz,"RADIO SORA, d.o.o.",LUBNIK,"[{u'Program': u'RADIO SORA', u'Timesharing': None}]",2021-05-23
+,,38111-38/2011/4,89.8,MHz,"RADIO SORA, d.o.o.",ŽIRI 1,"[{u'Program': u'RADIO SORA', u'Timesharing': None}]",2021-06-12
+,,38111-39/2011/2,96.3,MHz,RTV SLOVENIJA,JEZERSKO 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-06-23
+,,38111-39/2012/11,98.5,MHz,"RADIO BELVI, d.o.o.",VOGEL,"[{u'Program': u'Radio Antena Gorenjska; Antena G', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-02-11
+,,38111-39/2012/3,94.4,MHz,"RADIO BELVI, d.o.o.",BEGUNJE 1,"[{u'Program': u'Radio Antena Gorenjska; Antena G', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-09-26
+,,38111-39/2012/5,93.3,MHz,"RADIO BELVI, d.o.o.",KRANJSKA GORA,"[{u'Program': u'Radio Antena Gorenjska; Antena G', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-02-11
+,,38111-39/2012/7,94.7,MHz,"RADIO BELVI, d.o.o.",ŠKOFJA LOKA 2,"[{u'Program': u'Radio Antena Gorenjska; Antena G', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2018-04-08
+,,38111-39/2012/9,98.3,MHz,"RADIO BELVI, d.o.o.",ŠMARJETNA GORA,"[{u'Program': u'Radio Antena Gorenjska; Antena G', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2021-06-21
+,,38111-40/2011/2,107.8,MHz,"NAŠ ČAS, d.o.o.",PLEŠIVEC,"[{u'Program': u'RADIO VELENJE', u'Timesharing': u'od 00:00 do 10:00 in od 14:00 do 19:00'}]",2018-01-17
+,,38111-41/2012/3,91.6,MHz,"ŠPRAH d.o.o., Škofja vas",VELENJE 2,"[{u'Program': u'Radio Antena Velenje; Antena V', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2019-11-12
+,,38111-42/2011/2,95.7,MHz,RADIO OGNJIŠČE d.o.o. Koper,RAVNE 2,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2021-06-21
+,,38111-42/2012/3,94.4,MHz,"ŠPRAH d.o.o., Škofja vas",MARIBOR 6,"[{u'Program': u'Radio Antena Maribor; Antena M', u'Timesharing': u'od 02:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 10:00 do 24:00'}]",2019-11-18
+,,38111-43/2012/3,103,MHz,STUDIO D d.o.o.,TRDINOV VRH,"[{u'Program': u'Radio Aktual Studio D', u'Timesharing': None}]",2019-10-16
+,,38111-45/2011/2,103.5,MHz,"RADIO TRIGLAV JESENICE, D.O.O.",MEŽAKLA,"[{u'Program': u'RADIO TRIGLAV', u'Timesharing': None}]",2021-07-24
+,,38111-45/2011/2,96,MHz,"RADIO TRIGLAV JESENICE, D.O.O.",RAVNI-VALVAZOR,"[{u'Program': u'RADIO TRIGLAV', u'Timesharing': None}]",2021-07-24
+,,38111-46/2011/2,97.2,MHz,KOROŠKI RADIO d.o.o. Slovenj Gradec,PLEŠIVEC,"[{u'Program': u'Koro\u0161ki radio', u'Timesharing': None}]",2021-06-12
+,,38111-51/2011/2,549,kHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': u'ob delovnikih in sobotah od 06:00 do 23:00, ob nedeljah in praznikih od 07:15 do 23:00'}, {u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': u'ob delovnikih in sobotah od 23:00 do 06:00, ob nedeljah in praznikih od 23:00 do 07:15'}]",2021-06-12
+,,38111-51/2011/4,1170,kHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO CAPODISTRIA', u'Timesharing': None}]",2021-06-12
+,,38111-51/2012/3,106.2,MHz,RADIO PRO 1 d.o.o.,GORA OLJKA,"[{u'Program': u'RADIO GOLDI - SAVINJSKI VAL', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2016-07-06
+,,38111-51/2012/5,88.3,MHz,RADIO PRO 1 d.o.o.,MOZIRJE,"[{u'Program': u'RADIO GOLDI - SAVINJSKI VAL', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-06-18
+,,38111-51/2012/7,99.1,MHz,RADIO PRO 1 d.o.o.,VELENJE 2,"[{u'Program': u'RADIO GOLDI - SAVINJSKI VAL', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-06-18
+,,38111-52/2011/2,102.5,MHz,RADIO PRO 1 d.o.o.,VELENJE 2,"[{u'Program': u'Radio 1 \u0160tajerska; ENA MB', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2021-06-21
+,,38111-54/2011/2,107.9,MHz,RADIO PRO 1 d.o.o.,MARIBOR 6,"[{u'Program': u'Radio 1 \u0160tajerska; ENA MB', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-11-17
+,,38111-54/2011/4,97.4,MHz,RADIO PRO 1 d.o.o.,LJUBIČNA 2,"[{u'Program': u'Radio 1 \u0160tajerska; ENA MB', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-10-09
+,,38111-60/2010/8,95.8,MHz,RTV SLOVENIJA,KOČEVJE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-04-04
+,,38111-60/2011/2,102.4,MHz,Aktual obala d.o.o.,HRVATINI 3,"[{u'Program': u'Radio Aktual Obala', u'Timesharing': None}]",2017-11-14
+12B,,38111-61/2011/3,,,RTV SLOVENIJA,KRVAVEC,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}, {u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}, {u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}, {u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2012-11-11
+,,38111-62/2011/2,97.7,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO CAPODISTRIA', u'Timesharing': None}]",2021-11-09
+,,38111-69/2011/2,92.6,MHz,Aktual obala d.o.o.,LUCIJA 3,"[{u'Program': u'Radio Aktual Obala', u'Timesharing': None}]",2016-11-20
+,,38111-69/2011/2,98.4,MHz,Aktual obala d.o.o.,PIRAN 1,"[{u'Program': u'Radio Aktual Obala', u'Timesharing': None}]",2016-11-20
+,,38111-69/2011/2,102.8,MHz,Aktual obala d.o.o.,ŠENTJANE,"[{u'Program': u'Radio Aktual Obala', u'Timesharing': None}]",2016-11-20
+,,38111-69/2011/2,98.4,MHz,Aktual obala d.o.o.,IZOLA 5,"[{u'Program': u'Radio Aktual Obala', u'Timesharing': None}]",2016-11-20
+,,38111-7/2012/9,94.6,MHz,"RADIO MURSKI VAL, d.o.o.",PEČAROVCI,"[{u'Program': u'RADIO MURSKI VAL', u'Timesharing': None}]",2013-05-09
+,,38111-70/2011/6,91.7,MHz,RADIO CAPRIS d.o.o.,MARKOVEC,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2013-11-26
+,,38111-70/2011/6,95.6,MHz,RADIO CAPRIS d.o.o.,HRVATINI 3,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2013-11-26
+,,38111-70/2011/6,107.9,MHz,RADIO CAPRIS d.o.o.,KOPER 4,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2013-11-26
+,,38111-73/2011/6,105,MHz,"RC SAVINJSKA, d.o.o.",PAKA,"[{u'Program': u'RADIO CENTER SAVINJSKA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-03-13
+,,38111-74/2011/5,102.6,MHz,RADIO CENTER d.o.o.,GOLNIK 1,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-04-11
+,,38111-75/2011/2,101.5,MHz,RADIO CENTER d.o.o.,NOVA GORICA 1,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-08-05
+,,38111-75/2011/2,104.9,MHz,RADIO CENTER d.o.o.,NOVA GORICA 2,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-08-05
+,,38111-76/2011/3,96.5,MHz,RTV SLOVENIJA,ČRNOMELJ,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2014-01-25
+,,38111-77/2011/3,99.1,MHz,RTV SLOVENIJA,ČRNOMELJ,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2014-01-25
+,,38111-80/2011/2,98.2,MHz,RADIO TEDNIK Ptuj d.o.o.,PTUJ,"[{u'Program': u'RADIO PTUJ', u'Timesharing': None}]",2022-02-12
+,,38111-81/2011/2,101.1,MHz,RADIO OGNJIŠČE d.o.o. Koper,AJDOVŠČINA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2018-03-19
+,,38111-81/2011/2,107.5,MHz,RADIO OGNJIŠČE d.o.o. Koper,SKALNICA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2018-03-19
+,,38111-81/2011/2,95.1,MHz,RADIO OGNJIŠČE d.o.o. Koper,MIREN,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2018-03-19
+,,38111-81/2011/2,93.2,MHz,RADIO OGNJIŠČE d.o.o. Koper,DORNBERK 2,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2018-03-19
+,,38111-81/2011/2,93.2,MHz,RADIO OGNJIŠČE d.o.o. Koper,TOMAJ,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2018-03-19
+,,38111-82/2011/3,106.8,MHz,B.&B.BELNA d.o.o.,MELJSKI HRIB,"[{u'Program': u'RADIO TOP', u'Timesharing': None}]",2017-04-22
+27,Center,38112-1/2012/2,,,RTV SLOVENIJA,TRAVA,,2017-01-18
+27,Zahod,38112-12/2011/15,,,RTV SLOVENIJA,PREŠNICA,,2021-05-30
+27,Vzhod,38112-12/2011/17,,,RTV SLOVENIJA,SPODNJE JAVORJE,,2021-05-30
+27,Zahod,38112-12/2012/3,,,RTV SLOVENIJA,ŽAGA,,2022-03-15
+27,Vzhod,38112-13/2012/3,,,RTV SLOVENIJA,CELJE,,2022-03-12
+32,Vzhod,38112-14/2012/3,,,RTV SLOVENIJA,STOPERCE,,2017-03-22
+27,Vzhod,38112-15/2012/3,,,RTV SLOVENIJA,SLOVENJ GRADEC,,2022-03-12
+27,Zahod,38112-16/2012/3,,,RTV SLOVENIJA,TRENTA 1,,2022-03-15
+29,Zahod,38112-17/2012/3,,,RTV SLOVENIJA,SLAP,,2017-03-22
+28,Zahod,38112-18/2012/3,,,RTV SLOVENIJA,DOLENJA TREBUŠA,,2017-03-22
+27,Vzhod,38112-19/2012/4,,,RTV SLOVENIJA,ŽETALE,,2022-10-01
+32,Center,38112-2/2012/2,,,RTV SLOVENIJA,OSILNICA 2,,2022-01-18
+28,Zahod,38112-20/2012/4,,,RTV SLOVENIJA,ČIGINJ,,2017-03-22
+27,Vzhod,38112-21/2012/6,,,RTV SLOVENIJA,VUZENICA,,2022-10-01
+53,Vzhod,38112-22/2012/3,,,RTV SLOVENIJA,PODVOLOVLJEK 1,,2017-03-22
+53,Vzhod,38112-23/2012/3,,,RTV SLOVENIJA,PODVELKA 1,,2017-03-22
+32,Vzhod,38112-24/2012/4,,,RTV SLOVENIJA,PODLEHNIK,,2017-03-23
+57,Center,38112-25/2012/3,,,RTV SLOVENIJA,MEŽAKLA,,2019-08-05
+27,Vzhod,38112-26/2012/3,,,RTV SLOVENIJA,PODSREDA,,2022-03-15
+27,Zahod,38112-27/2011/2,,,RTV SLOVENIJA,BELI KRIŽ,,2019-08-06
+27,Center,38112-27/2012/3,,,RTV SLOVENIJA,PODLJUBELJ 1,,2017-03-23
+32,Center,38112-28/2012/3,,,RTV SLOVENIJA,PODLJUBELJ 2,,2022-03-19
+27,Zahod,38112-29/2011/5,,,RTV SLOVENIJA,BREGINJ,,2021-08-11
+57,Center,38112-29/2012/3,,,RTV SLOVENIJA,PODLJUBELJ 3,,2017-03-23
+27,Zahod,38112-30/2011/3,,,RTV SLOVENIJA,RAKITOVEC,,2021-09-10
+57,Center,38112-31/2012/2,,,RTV SLOVENIJA,SELCA,,2019-08-05
+27,Zahod,38112-32/2011/2,,,RTV SLOVENIJA,TRSTELJ,,2019-08-06
+27,Zahod,38112-32/2011/3,,,RTV SLOVENIJA,KAMBREŠKO,,2019-07-07
+27,Zahod,38112-32/2011/4,,,RTV SLOVENIJA,KANIN,,2019-07-07
+27,Zahod,38112-32/2011/5,,,RTV SLOVENIJA,GRAHOVO,,2019-08-06
+27,Zahod,38112-32/2011/6,,,RTV SLOVENIJA,KUK,,2019-08-06
+27,Zahod,38112-32/2011/7,,,RTV SLOVENIJA,COL,,2019-07-07
+27,Zahod,38112-32/2011/8,,,RTV SLOVENIJA,TOLMIN,,2019-07-07
+28,Zahod,38112-32/2012/2,,,RTV SLOVENIJA,LEPENA,,2017-03-19
+28,Zahod,38112-33/2012/2,,,RTV SLOVENIJA,SOČA,,2017-03-19
+34,Koper,38112-34/2011/2,,,DOMATES d.o.o. Portorož,ANKARAN,,2012-12-22
+28,Zahod,38112-34/2012/2,,,RTV SLOVENIJA,SRPENICA,,2017-03-19
+27,Zahod,38112-35/2011/3,,,RTV SLOVENIJA,CERKNO 2,,2019-10-28
+28,Zahod,38112-35/2012/2,,,RTV SLOVENIJA,TRENTA 2,,2017-03-19
+27,Center,38112-36/2012/3,,,RTV SLOVENIJA,RADEČE 1,,2017-03-28
+57,Center,38112-37/2012/5,,,RTV SLOVENIJA,KROPA,,2019-08-05
+53,Vzhod,38112-38/2012/2,,,RTV SLOVENIJA,TRBONJE,,2017-03-28
+27,Center,38112-39/2012/2,,,RTV SLOVENIJA,ZALI LOG 1,,2017-04-16
+27,Zahod,38112-4/2012/2,,,RTV SLOVENIJA,PODGORJE,,2022-03-05
+27,Center,38112-4/2012/3,,,RTV SLOVENIJA,KUŽELJ,,2017-03-08
+57,Center,38112-40/2012/3,,,RTV SLOVENIJA,ŽELEZNIKI 3,,2017-04-16
+27,Vzhod,38112-44/2012/5,,,RTV SLOVENIJA,JOSIPDOL,,2022-10-01
+57,Center,38112-45/2012/3,,,RTV SLOVENIJA,BITNJE,,2017-05-19
+27,Zahod,38112-46/2012/3,,,RTV SLOVENIJA,ČEKOVNIK,,2022-05-31
+27,Center,38112-47/2012/2,,,RTV SLOVENIJA,HRASTNIK 3,,2017-05-31
+27,Center,38112-48/2012/2,,,RTV SLOVENIJA,JELENDOL,,2017-05-31
+27,Center,38112-49/2012/2,,,RTV SLOVENIJA,NOMENJ,,2017-05-31
+32,Center,38112-5/2011/10,,,RTV SLOVENIJA,SODRAŽICA,,2019-07-14
+32,Center,38112-5/2011/11,,,RTV SLOVENIJA,KRANJSKA GORA,,2019-07-07
+32,Center,38112-5/2011/12,,,RTV SLOVENIJA,LOGATEC,,2019-08-07
+32,Center,38112-5/2011/13,,,RTV SLOVENIJA,VOGEL,,2019-08-06
+32,Center,38112-5/2011/14,,,RTV SLOVENIJA,GORENJA VAS,,2019-08-06
+32,Center,38112-5/2011/15,,,RTV SLOVENIJA,JEZERSKO 1,,2019-08-06
+32,Center,38112-5/2011/16,,,RTV SLOVENIJA,NOVA ŠTIFTA,,2019-07-07
+32,Center,38112-5/2011/18,,,RTV SLOVENIJA,ŽIRI 1,,2019-08-06
+32,Center,38112-5/2011/7,,,RTV SLOVENIJA,BOROVNICA,,2019-08-06
+32,Center,38112-5/2011/8,,,RTV SLOVENIJA,JEVNICA 1,,2019-08-06
+32,Center,38112-5/2011/9,,,RTV SLOVENIJA,ORTNEK,,2019-07-14
+32,Center,38112-50/2012/5,,,RTV SLOVENIJA,ŠMARATA,,2022-10-01
+28,Zahod,38112-51/2012/2,,,RTV SLOVENIJA,ZAKOJCA,,2017-05-31
+27,Center,38112-52/2011/5,,,RTV SLOVENIJA,SINJI VRH 1,,2017-01-17
+27,Vzhod,38112-52/2012/5,,,RTV SLOVENIJA,ŽUSEM 1,,2022-10-01
+57,Center,38112-53/2011/4,,,RTV SLOVENIJA,BLEJSKA DOBRAVA,,2019-08-05
+57,Center,38112-54/2011/6,,,RTV SLOVENIJA,GORJE,,2019-08-05
+57,Center,38112-55/2011/4,,,RTV SLOVENIJA,TRŽIČ 1,,2019-08-05
+27,Center,38112-56/2011/3,,,RTV SLOVENIJA,BOHINJSKA BELA,,2017-01-12
+27,Center,38112-57/2011/2,,,RTV SLOVENIJA,ČEŠNJICA,,2017-01-12
+27,Center,38112-58/2012/4,,,RTV SLOVENIJA,LOM,,2017-05-07
+27,Zahod,38112-59/2012/3,,,RTV SLOVENIJA,IDRIJA 1,,2019-10-28
+32,Center,38112-6/2011/10,,,RTV SLOVENIJA,ŽUŽEMBERK,,2019-08-06
+32,Center,38112-6/2011/11,,,RTV SLOVENIJA,FARA,,2021-03-01
+32,Center,38112-6/2011/12,,,RTV SLOVENIJA,HRASTNIK 2,,2019-08-06
+32,Center,38112-6/2011/13,,,RTV SLOVENIJA,KISOVEC,,2019-08-06
+32,Center,38112-6/2011/14,,,RTV SLOVENIJA,METLIKA,,2021-03-01
+32,Center,38112-6/2011/15,,,RTV SLOVENIJA,OBREŽJE,,2021-03-01
+32,Center,38112-6/2011/16,,,RTV SLOVENIJA,SEVNICA LAZE,,2021-03-01
+32,Center,38112-6/2011/17,,,RTV SLOVENIJA,SVIBNO,,2021-03-01
+32,Center,38112-6/2011/18,,,RTV SLOVENIJA,VINICA,,2019-08-06
+32,Center,38112-6/2011/19,,,RTV SLOVENIJA,ZAGORJE,,2019-08-06
+32,Center,38112-6/2011/20,,,RTV SLOVENIJA,ZIDANI MOST,,2021-03-01
+32,Center,38112-6/2011/23,,,RTV SLOVENIJA,LJUBLJANA 3,,2019-08-06
+32,Center,38112-6/2011/24,,,RTV SLOVENIJA,PEČ,,2019-11-18
+32,Center,38112-6/2011/27,,,RTV SLOVENIJA,LOŠKI POTOK,,2019-07-14
+32,Center,38112-6/2011/28,,,RTV SLOVENIJA,LOŽ,,2019-07-14
+32,Center,38112-6/2011/5,,,RTV SLOVENIJA,BIZELJSKO,,2019-07-14
+32,Center,38112-6/2011/6,,,RTV SLOVENIJA,ČRNOMELJ,,2019-08-06
+32,Center,38112-6/2011/7,,,RTV SLOVENIJA,KOČEVJE,,2019-08-06
+32,Center,38112-6/2011/8,,,RTV SLOVENIJA,KRŠKO,,2021-03-01
+32,Center,38112-6/2011/9,,,RTV SLOVENIJA,TRBOVLJE 1,,2019-08-06
+32,Center,38112-60/2011/2,,,RTV SLOVENIJA,PODBRDO,,2019-10-28
+27,Center,38112-60/2012/4,,,RTV SLOVENIJA,JEVNICA 2,,2017-07-15
+29,Zahod,38112-61/2011/3,,,RTV SLOVENIJA,GORENJA TREBUŠA,,2017-02-01
+27,Center,38112-61/2012/4,,,RTV SLOVENIJA,JEZERSKO 2,,2017-07-09
+27,Zahod,38112-62/2011/2,,,RTV SLOVENIJA,HOTEDRŠICA 1,,2019-10-19
+27,Center,38112-62/2012/4,,,RTV SLOVENIJA,ŽELEZNIKI 1,,2017-07-09
+32,Center,38112-64/2012/3,,,RTV SLOVENIJA,TRŽIČ 2,,2022-07-09
+32,Center,38112-65/2011/2,,,RTV SLOVENIJA,LITIJA,,2021-12-19
+27,Center,38112-65/2012/4,,,RTV SLOVENIJA,PIŠECE,,2017-07-09
+27,Center,38112-65/2012/6,,,RTV SLOVENIJA,ZGORNJA LUŠA,,2017-07-09
+32,Zahod,38112-68/2012/4,,,RTV SLOVENIJA,BABNO POLJE,,2017-08-12
+27,Center,38112-69/2012/4,,,RTV SLOVENIJA,BLAGOVICA,,2017-08-11
+28,Zahod,38112-70/2012/4,,,RTV SLOVENIJA,KANAL,,2017-08-12
+28,Zahod,38112-72/2012/4,,,RTV SLOVENIJA,KANOMLJA,,2017-09-06
+32,Vzhod,38112-73/2012/4,,,RTV SLOVENIJA,STOGOVCI,,2017-09-05
+57,Murska Sobota,38112-77/2012/5,,,HI-FI d.o.o.,MURSKA SOBOTA,,2022-09-08
+34,med Ajdovščino in Bovcem,38112-79/2012/2,,,"ALTERHDTV, IGOR PETERNELJ S.P.",TRSTELJ,,2022-09-08
+29,Litija,38112-80/2012/3,,,"ATV BABNIK & CO d.n.o., Litija",JEVNICA 1,,2022-08-06
+29,Litija,38112-80/2012/4,,,"ATV BABNIK & CO d.n.o., Litija",LITIJA,,2022-08-06
+35,med Ilirsko Bistrico in Sežano,38112-81/2012/3,,,Zavod TV Galeja Ilirska Bistrica,KARLOVICA,,2022-08-06
+32,Center,38112-86/2012/3,,,RTV SLOVENIJA,ŽIRI 2,,2017-07-09
+,,650817,105.7,MHz,RTV SLOVENIJA,NANOS,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2013-03-04
+,,650922,96.3,MHz,"RADIO SORA, d.o.o.",SELCA 2,"[{u'Program': u'RADIO SORA', u'Timesharing': None}]",2013-04-08
+,,650957,96,MHz,RTV SLOVENIJA,FARA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-03-20
+,,650958,96.3,MHz,RTV SLOVENIJA,KOŠANA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2013-03-20
+,,650959,94.7,MHz,RTV SLOVENIJA,KRANJSKA GORA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-03-20
+,,650960,96.3,MHz,RTV SLOVENIJA,ORTNEK,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2013-07-30
+,,650961,90.9,MHz,RTV SLOVENIJA,OSILNICA 2,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-03-20
+,,651756,89.3,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-09-17
+,,651758,98.1,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2013-09-17
+,,651759,107.6,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2013-09-17
+,,651879,95.7,MHz,RTV SLOVENIJA,BREGINJ,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-12-07
+,,651880,97.6,MHz,RTV SLOVENIJA,BREGINJ,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2013-12-07
+,,651881,88.6,MHz,RTV SLOVENIJA,STARI TRG,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2013-12-07
+,,651882,94,MHz,RTV SLOVENIJA,STARI TRG,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2013-12-07
+,,652098,89,MHz,RTV SLOVENIJA,ČRNOMELJ,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2014-01-25
+,,652101,89.1,MHz,RTV SLOVENIJA,TRENTA 1,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2014-01-25
+,,652102,92.2,MHz,RTV SLOVENIJA,TRENTA 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2014-01-25
+,,652103,94.7,MHz,RTV SLOVENIJA,TRENTA 1,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2014-01-25
+,,652180,95.9,MHz,NT&RC d.o.o. Celje,MALIČ LAŠKO,"[{u'Program': u'RADIO CELJE', u'Timesharing': None}]",2014-03-11
+,,652181,95.1,MHz,NT&RC d.o.o. Celje,BOČ,"[{u'Program': u'RADIO CELJE', u'Timesharing': None}]",2014-02-10
+,,652194,89.3,MHz,Zavod RŠ,LJUBLJANA 3,"[{u'Program': u'RADIO \u0160TUDENT', u'Timesharing': None}]",2014-03-04
+,,652195,97.3,MHz,"RADIO KRANJ, d.o.o.",ŠMARJETNA GORA,"[{u'Program': u'RADIO KRANJ - GORENJSKI MEGASR\u010cEK', u'Timesharing': None}]",2014-03-11
+,,652267,918,kHz,RTV SLOVENIJA,DOMŽALE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2014-03-29
+,,652803,94.6,MHz,SRAKA INTERNATIONAL d.o.o.,TRDINOV VRH,"[{u'Program': u'RADIO SRAKA', u'Timesharing': None}]",2014-05-17
+,,653229,101.3,MHz,RTV SLOVENIJA,TOLMIN,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2015-03-18
+,,653230,102.1,MHz,RTV SLOVENIJA,KANIN,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2015-03-18
+,,653333,90,MHz,RTV SLOVENIJA,IDRIJA 2,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2015-05-04
+,,653531,92.8,MHz,RADIO OGNJIŠČE d.o.o. Koper,ČRNOMELJ,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2015-07-11
+,,653532,90.2,MHz,R DOMŽALE d.o.o.,VRHNIKA 2,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2015-07-11
+,,653824,89.5,MHz,RTV SLOVENIJA,AJDOVŠČINA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2015-11-07
+,,653857,98.7,MHz,RECAL d.o.o.,MAJŠPERK,"[{u'Program': u'Radio RADIO', u'Timesharing': None}]",2015-08-01
+,,653987,104.3,MHz,RADIO TEDNIK Ptuj d.o.o.,PTUJ 2,"[{u'Program': u'RADIO PTUJ', u'Timesharing': None}]",2013-04-19
+,,653988,90.4,MHz,RTV SLOVENIJA,BOČ,"[{u'Program': u'RADIO MARIBOR', u'Timesharing': None}]",2016-01-18
+,,654075,93.4,MHz,RTV SLOVENIJA,KRŠKO,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-02-13
+,,654085,100.4,MHz,RTV SLOVENIJA,BLEJSKA DOBRAVA,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-02-14
+,,654094,90.8,MHz,RTV SLOVENIJA,IDRIJA 1,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2016-03-26
+,,654170,93.5,MHz,RTV SLOVENIJA,ANHOVO,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2016-10-10
+,,654338,98.6,MHz,RTV SLOVENIJA,AJDOVŠČINA,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2016-09-01
+,,655010,96.3,MHz,RTV SLOVENIJA,AJDOVŠČINA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2015-11-07
+,,655176,93.7,MHz,RADIO ŠTAJERSKI VAL d.o.o. Šmarje pri Jelšah,BOČ,"[{u'Program': u'RADIO \u0160TAJERSKI VAL', u'Timesharing': None}]",2016-07-27
+,,655225,88,MHz,RTV SLOVENIJA,KRIM,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2016-10-15
+,,655246,87.8,MHz,"ŠPRAH d.o.o., Škofja vas",SVETINA,"[{u'Program': u'Radio Antena Celje; Antena C', u'Timesharing': u'od 02:00 do 05:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 00:00 do 02:00 in od 12:00 do 24:00'}]",2016-07-06
+,,655247,87.8,MHz,"RADIO ANTENA d.o.o., Ljubljana",SVETINA,"[{u'Program': u'Radio Antena \u0160tajerska; Antena S', u'Timesharing': u'od 05:00 do 10:00'}, {u'Program': u'Radio Antena', u'Timesharing': u'od 10:00 do 12:00'}]",2016-07-06
+,,655270,92.4,MHz,RTV SLOVENIJA,BLEJSKA DOBRAVA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2016-09-04
+,,655271,90,MHz,RTV SLOVENIJA,BLEJSKA DOBRAVA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2016-09-05
+,,655289,87.6,MHz,"BRUS MEDIJI, d.o.o.",LJUBLJANA 3,"[{u'Program': u'Europa 05', u'Timesharing': None}]",2016-07-17
+,,655325,96.7,MHz,RTV SLOVENIJA,TRSTELJ,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-10-10
+,,655386,96.9,MHz,RTV SLOVENIJA,ZAHOMCE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2016-10-10
+,,655387,97.6,MHz,RTV SLOVENIJA,VOGEL,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2016-10-10
+,,655388,107.7,MHz,RTV SLOVENIJA,POSTOJNA,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-10-10
+,,655407,105.9,MHz,RADIO OGNJIŠČE d.o.o. Koper,GORNJA RADGONA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2016-10-16
+,,655451,99.7,MHz,RTV SLOVENIJA,HOTEDRŠICA 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2016-07-04
+,,655484,88.9,MHz,"NAŠ ČAS, d.o.o.",VELENJE 4,"[{u'Program': u'RADIO VELENJE', u'Timesharing': None}]",2014-03-16
+,,655506,95.9,MHz,ZAVOD MARŠ,MARIBOR 6,"[{u'Program': u'Mariborski radio \u0160tudent - Mar\u0161', u'Timesharing': None}]",2014-01-12
+,,655625,96.4,MHz,RTV SLOVENIJA,KUK,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2017-01-03
+,,655849,107,MHz,R DOMŽALE d.o.o.,MARKOVEC,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2015-06-27
+,,655849,87.9,MHz,R DOMŽALE d.o.o.,HRVATINI 3,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2015-06-27
+,,655861,89.3,MHz,RTV SLOVENIJA,PODBRDO,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-04-05
+,,655862,95.7,MHz,RTV SLOVENIJA,PODBRDO,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-04-05
+,,655873,103.6,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO CAPODISTRIA', u'Timesharing': None}]",2017-04-05
+,,656018,89.1,MHz,"NOVICE, d.o.o.,",SLOVENSKE KONJICE 2,"[{u'Program': u'Radio Rogla', u'Timesharing': None}]",2017-01-21
+,,656018,89.4,MHz,"NOVICE, d.o.o.,",LJUBIČNA 2,"[{u'Program': u'Radio Rogla', u'Timesharing': None}]",2017-01-21
+,,656044,102,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2017-05-11
+,,656046,103.9,MHz,RTV SLOVENIJA,OŽBALT 2,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2017-05-11
+,,656047,98.9,MHz,RTV SLOVENIJA,OŽBALT 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-05-11
+,,656048,87.7,MHz,RTV SLOVENIJA,OŽBALT 2,"[{u'Program': u'RADIO MARIBOR', u'Timesharing': None}]",2017-05-11
+,,656062,93.8,MHz,RTV SLOVENIJA,TRBONJE,"[{u'Program': u'RADIO MARIBOR', u'Timesharing': None}]",2017-05-11
+,,656128,102.2,MHz,RTV SLOVENIJA,TRSTELJ,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2017-07-18
+,,656137,104.1,MHz,RTV SLOVENIJA,KOPER,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2017-06-01
+,,656236,105.2,MHz,LASERR d.o.o.,SLOVENJ GRADEC,"[{u'Program': u'Radio Laser Slovenj Gradec', u'Timesharing': None}]",2014-03-30
+,,656306,90.9,MHz,RTV SLOVENIJA,ZAHOMCE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-07-04
+,,656307,94.9,MHz,RTV SLOVENIJA,KLANEC,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-07-04
+,,656308,88.6,MHz,RTV SLOVENIJA,LUČE 1,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-07-04
+,,656309,93.1,MHz,RTV SLOVENIJA,LUČE 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-07-04
+,,656310,92.2,MHz,RTV SLOVENIJA,KOPER,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-07-04
+,,656312,92.6,MHz,RTV SLOVENIJA,DOLENJA TREBUŠA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-07-04
+,,656323,90.8,MHz,RADIO BREZJE d.o.o.,MARIBOR BREZJE,"[{u'Program': u'RADIO BREZJE', u'Timesharing': None}]",2017-09-25
+,,656354,102.3,MHz,RADIO OGNJIŠČE d.o.o. Koper,KRANJSKA GORA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2017-07-12
+,,656355,89.1,MHz,RADIO OGNJIŠČE d.o.o. Koper,POSTOJNA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2017-07-12
+,,656442,99.8,MHz,RTV SLOVENIJA,VREME 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-10-07
+,,656475,94.3,MHz,RTV SLOVENIJA,TRSTELJ,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-07-18
+,,656478,92.6,MHz,RTV SLOVENIJA,TRSTELJ,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2017-07-18
+,,656615,96.3,MHz,RTV SLOVENIJA,KLANEC,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2017-07-04
+,,656758,99.5,MHz,RADIO CITY d.o.o.,LJUBLJANA 3,"[{u'Program': u'RADIO CITY', u'Timesharing': None}]",2017-11-05
+,,656783,106.8,MHz,UNIVOX d.o.o.,MALI LOČNIK,"[{u'Program': u'RADIO UNIVOX', u'Timesharing': None}]",2015-06-27
+,,656831,100.2,MHz,"RGL, d.o.o, Ljubljana",KRIM,"[{u'Program': u'Radio Aktual', u'Timesharing': None}]",2013-04-14
+,,656832,101.2,MHz,"RGL, d.o.o, Ljubljana",LJUBLJANA 3,"[{u'Program': u'Radio Aktual', u'Timesharing': None}]",2013-04-14
+,,656836,96.7,MHz,RADIO SEVNICA d.o.o.,LISCA,"[{u'Program': u'Radio Veseljak Lisca', u'Timesharing': None}]",2013-05-12
+,,656930,107.8,MHz,RADIO ALFA d.o.o.,PLEŠIVEC,"[{u'Program': u'RADIO ALFA', u'Timesharing': u'od 10:00 do 14:00 in od 19:00 do 24:00'}]",2018-01-17
+,,656974,98.1,MHz,"Radio Kum Trbovlje, d.o.o.",KUM,"[{u'Program': u'RADIO KUM', u'Timesharing': None}]",2018-02-16
+,,657050,102.6,MHz,"MOJ RADIO, BORIS SUŠIN S.P.",CELJE GOLOVEC,"[{u'Program': u'MojRadio', u'Timesharing': None}]",2018-01-15
+,,657142,88.5,MHz,RTV SLOVENIJA,DOLENJA TREBUŠA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2018-02-06
+,,657214,100.3,MHz,NT&RC d.o.o. Celje,CELJE GOLOVEC,"[{u'Program': u'RADIO CELJE', u'Timesharing': None}]",2014-03-11
+,,657239,91.1,MHz,RTV SLOVENIJA,CELJE GOLOVEC,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-05-05
+,,657289,92.1,MHz,RADIO GORENC d.o.o.,MEŽAKLA,"[{u'Program': u'RADIO GORENC', u'Timesharing': None}]",2017-11-13
+,,657292,101.3,MHz,B.&B.BELNA d.o.o.,MELJSKI HRIB,"[{u'Program': u'Radio Pohorje', u'Timesharing': None}]",2018-03-03
+,,657466,99.5,MHz,UNIVOX d.o.o.,LOŠKI POTOK,"[{u'Program': u'RADIO UNIVOX', u'Timesharing': None}]",2018-04-08
+,,657677,90,MHz,RTV SLOVENIJA,KOPER,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-03-01
+,,657826,93.9,MHz,RTV SLOVENIJA,IDRIJA 1,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2016-03-26
+,,657829,94.7,MHz,RTV SLOVENIJA,IDRIJA 2,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2016-03-26
+,,657833,89.3,MHz,RTV SLOVENIJA,ČEPOVAN LOKVE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2018-06-03
+,,657868,95.7,MHz,RTV SLOVENIJA,ČEPOVAN LOKVE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2018-06-03
+,,658104,96.1,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2018-07-30
+,,658105,104,MHz,RTV SLOVENIJA,PEČ,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2018-07-30
+,,658106,106,MHz,RTV SLOVENIJA,PEČ,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2018-07-30
+,,658107,107.2,MHz,RTV SLOVENIJA,TRBONJE,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2017-05-15
+,,658149,103.2,MHz,RADIO ALFA d.o.o.,SLOVENJ GRADEC,"[{u'Program': u'RADIO ALFA', u'Timesharing': None}]",2018-09-26
+,,658155,88.1,MHz,RTV SLOVENIJA,KLANEC,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2018-07-31
+,,658217,99.7,MHz,RADIO OGNJIŠČE d.o.o. Koper,BELI KRIŽ,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2015-06-27
+,,658231,92.7,MHz,RTV SLOVENIJA,LENDAVA,"[{u'Program': u'Pomurski mad\u017earski radio - Muravid\xe9ki magyar r\xe1di\xf3', u'Timesharing': None}]",2017-12-03
+,,658258,107.7,MHz,RTV SLOVENIJA,MEDVEDJEK,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2018-08-29
+,,658259,97.1,MHz,RTV SLOVENIJA,ZAJČICA,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2018-08-29
+,,658262,98.1,MHz,RTV SLOVENIJA,ČEPOVAN LOKVE,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2018-08-29
+,,658263,101.4,MHz,RTV SLOVENIJA,TRŽIČ 1,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2018-08-29
+,,658342,97.3,MHz,RTV SLOVENIJA,OBREŽJE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2018-10-01
+,,658464,104.5,MHz,R DOMŽALE d.o.o.,TRSTELJ,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2015-06-27
+,,658518,107.9,MHz,RADIO CAPRIS d.o.o.,ŠENTJANE,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2017-09-25
+,,658518,106.2,MHz,RADIO CAPRIS d.o.o.,PORTOROŽ 1,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2017-09-25
+,,658579,104.1,MHz,RTV SLOVENIJA,ČEPOVAN LOKVE,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2018-10-29
+,,658868,103.9,MHz,RTV SLOVENIJA,KUM,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2019-02-24
+,,658990,91.2,MHz,RADIO OGNJIŠČE d.o.o. Koper,TINJAN,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-03-26
+,,658990,88.9,MHz,RADIO OGNJIŠČE d.o.o. Koper,KOPER,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-03-26
+,,659039,95.9,MHz,RADIO BREŽICE d.o.o.,KRŠKO,"[{u'Program': u'Radio Veseljak Posavje', u'Timesharing': None}]",2013-07-09
+,,659040,88.7,MHz,RADIO BREŽICE d.o.o.,OBREŽJE,"[{u'Program': u'Radio Veseljak Posavje', u'Timesharing': None}]",2014-02-22
+,,659105,91.5,MHz,RTV SLOVENIJA,ROB,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2019-02-20
+,,659118,104.8,MHz,"RGL, d.o.o, Ljubljana",BOČ,"[{u'Program': u'Radio Aktual', u'Timesharing': None}]",2019-05-18
+,,659279,95.1,MHz,RADIO GORENC d.o.o.,TRŽIČ 4,"[{u'Program': u'RADIO GORENC', u'Timesharing': None}]",2019-06-12
+,,659280,97,MHz,"ALPE ADRIA ""ZELENI VAL"" d.o.o.",KUREŠČEK,"[{u'Program': u'RADIO ZELENI VAL', u'Timesharing': None}]",2019-06-12
+,,659368,91.2,MHz,RADIO OGNJIŠČE d.o.o. Koper,TOLMIN,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-06-12
+,,659379,105.9,MHz,RADIO OGNJIŠČE d.o.o. Koper,KUM,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-07-02
+,,659379,105.9,MHz,RADIO OGNJIŠČE d.o.o. Koper,MOZIRJE,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-07-02
+,,659379,107.3,MHz,RADIO OGNJIŠČE d.o.o. Koper,LIBNA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-07-02
+,,659561,106.6,MHz,"RADIO KRKA Novo mesto, d.o.o.",TRDINOV VRH,"[{u'Program': u'RADIO KRKA', u'Timesharing': None}]",2019-07-02
+,,659583,105.1,MHz,RADIO KOBARID d.o.o.,KOBARIŠKI STOL,"[{u'Program': u'Alpski val', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2016-11-02
+,,659584,96.9,MHz,RADIO KOBARID d.o.o.,KAMBREŠKO,"[{u'Program': u'Alpski val', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2017-11-14
+,,747559,95.5,MHz,"RGL, d.o.o, Ljubljana",CELJE,"[{u'Program': u'RADIO VESELJAK SI', u'Timesharing': None}]",2017-06-28
+,,747616,89.5,MHz,RTV SLOVENIJA,PODGRAD,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2019-07-06
+,,747617,99.8,MHz,RTV SLOVENIJA,PODGRAD,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2019-07-06
+,,890913,104.1,MHz,RTV SLOVENIJA,PAKA,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2019-08-12
+,,890914,95.5,MHz,"RGL, d.o.o, Ljubljana",TRŠKA GORA 1,"[{u'Program': u'RADIO VESELJAK SI', u'Timesharing': None}]",2019-10-16
+,,890921,89.7,MHz,"MAHKOVEC Š & D, d.n.o., Litija",LITIJA 2,"[{u'Program': u'Radio Geoss', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2016-07-06
+,,890928,105,MHz,RADIO PRO 1 d.o.o.,KRŠKO,"[{u'Program': u'Radio 1 Dolenjska; ENA NM', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2015-07-11
+,,890930,88.9,MHz,RADIO PRO 1 d.o.o.,TREBNJE 3,"[{u'Program': u'Radio 1 Dolenjska; ENA NM', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2016-09-24
+,,890937,89.8,MHz,RADIO URBAN d.o.o.,ORTNEK,"[{u'Program': u'RADIO URBAN', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-12-17
+,,890944,100.6,MHz,RADIO CITY d.o.o.,MARIBOR 5,"[{u'Program': u'RADIO CITY', u'Timesharing': None}]",2019-10-19
+,,890944,98,MHz,RADIO CITY d.o.o.,MARIBOR PIVOLA,"[{u'Program': u'RADIO CITY', u'Timesharing': None}]",2019-10-19
+,,890953,107,MHz,"MOJ RADIO, BORIS SUŠIN S.P.",TOPOLŠICA,"[{u'Program': u'MojRadio', u'Timesharing': None}]",2019-11-16
+,,891002,103.7,MHz,RADIO CENTER d.o.o.,POHORJE,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2019-11-19
+,,891021,100.2,MHz,RADIO NET d.o.o.,MARIBOR 3,"[{u'Program': u'Radio NET FM', u'Timesharing': None}]",2019-11-17
+,,891021,99.8,MHz,RADIO NET d.o.o.,MELJSKI HRIB,"[{u'Program': u'Radio NET FM', u'Timesharing': None}]",2019-11-17
+,,891024,101.8,MHz,"NOVICE, d.o.o.,",KONJIŠKA GORA,"[{u'Program': u'Radio Rogla', u'Timesharing': None}]",2019-11-23
+,,891026,95.6,MHz,R DOMŽALE d.o.o.,DOBENO,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2013-12-31
+,,891026,95.6,MHz,R DOMŽALE d.o.o.,ŠMARNA GORA,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2013-12-31
+,,891026,102.8,MHz,R DOMŽALE d.o.o.,VIR 2,"[{u'Program': u'RADIO HIT', u'Timesharing': None}]",2013-12-31
+,,891042,107.7,MHz,RECAL d.o.o.,GORNJA RADGONA,"[{u'Program': u'RADIO MAXI', u'Timesharing': None}]",2018-01-01
+,,891044,95.7,MHz,RECAL d.o.o.,PEČAROVCI,"[{u'Program': u'RADIO MAXI', u'Timesharing': None}]",2016-06-20
+,,891054,90.6,MHz,"INTERTEH, d.o.o.",KRIM 2,"[{u'Program': u'Radio Orion', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-11-27
+,,891083,104.8,MHz,RADIO OGNJIŠČE d.o.o. Koper,LJUBLJANA 2,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-11-23
+,,891083,104.5,MHz,RADIO OGNJIŠČE d.o.o. Koper,KRVAVEC,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-11-23
+,,891084,107.3,MHz,RADIO OGNJIŠČE d.o.o. Koper,BOČ,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2019-11-23
+,,891099,87.6,MHz,RADIO ŠTAJERSKI VAL d.o.o. Šmarje pri Jelšah,PODSREDA,"[{u'Program': u'RADIO \u0160TAJERSKI VAL', u'Timesharing': None}]",2019-10-16
+,,891154,87.6,MHz,RTV SLOVENIJA,PEČAROVCI,"[{u'Program': u'Pomurski mad\u017earski radio - Muravid\xe9ki magyar r\xe1di\xf3', u'Timesharing': None}]",2019-12-16
+,,891155,89.3,MHz,RTV SLOVENIJA,ŠMARATA,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2019-11-12
+,,891171,92.4,MHz,RTV SLOVENIJA,ŠMARATA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2019-11-23
+,,891229,105.7,MHz,"RADIO MURSKI VAL, d.o.o.",ZLATOLIČJE,"[{u'Program': u'RADIO MURSKI VAL', u'Timesharing': None}]",2019-11-23
+,,891230,90.6,MHz,NT&RC d.o.o. Celje,MOZIRJE,"[{u'Program': u'RADIO CELJE', u'Timesharing': None}]",2019-11-16
+,,891231,90,MHz,RECAL d.o.o.,ORMOŽ 2,"[{u'Program': u'RADIO MAXI', u'Timesharing': None}]",2017-04-16
+,,891231,90,MHz,RECAL d.o.o.,KAMENŠČAK,"[{u'Program': u'RADIO MAXI', u'Timesharing': None}]",2017-04-16
+,,891382,107.1,MHz,"NTR, Logatec, d.o.o.",ROVTE,"[{u'Program': u'1TR (EN-TE-ER)', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2019-11-27
+,,891383,91.1,MHz,"NTR, Logatec, d.o.o.",LOGATEC,"[{u'Program': u'1TR (EN-TE-ER)', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2017-04-11
+,,891390,98.2,MHz,RADIO 94 d.o.o. Postojna,POSTOJNA,"[{u'Program': u'R94', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2019-06-01
+,,891390,102.6,MHz,RADIO 94 d.o.o. Postojna,GOLI VRH,"[{u'Program': u'R94', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2019-06-01
+,,891419,91.8,MHz,RTV SLOVENIJA,PODLJUBELJ 3,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-01-04
+,,891419,91.8,MHz,RTV SLOVENIJA,KRVAVEC,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-01-04
+,,891429,93.8,MHz,RADIO GORENC d.o.o.,GOLNIK 1,"[{u'Program': u'RADIO GORENC', u'Timesharing': None}]",2019-06-12
+,,891515,98.9,MHz,RTV SLOVENIJA,PODLJUBELJ 3,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-01-04
+,,891515,98.9,MHz,RTV SLOVENIJA,KRVAVEC,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-01-04
+,,891516,102,MHz,RTV SLOVENIJA,KRVAVEC,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-01-04
+,,891521,105.5,MHz,RTV SLOVENIJA,LIMBARSKA GORA,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2020-02-12
+,,891528,97.1,MHz,RADIO OGNJIŠČE d.o.o. Koper,TRŠKA GORA 1,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2017-07-12
+,,891649,98.9,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2013-09-17
+,,891650,94.6,MHz,RTV SLOVENIJA,TINJAN,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2016-04-07
+,,891747,97.6,MHz,ZVEZA ROMOV SLOVENIJE,MURSKA SOBOTA,"[{u'Program': u'Radio Romic', u'Timesharing': None}]",2018-03-12
+,,891826,93.5,MHz,RADIO RADLJE d.o.o.,JOSIPDOL,"[{u'Program': u'RADIO RADLJE', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-06-18
+,,891832,89.5,MHz,RADIO RADLJE d.o.o.,RADLJE 2,"[{u'Program': u'RADIO RADLJE', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2014-04-21
+,,891833,95.9,MHz,RADIO RADLJE d.o.o.,RADLJE 3,"[{u'Program': u'RADIO RADLJE', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-06-18
+,,891915,87.6,MHz,RADIO PRO 1 d.o.o.,TRŠKA GORA 1,"[{u'Program': u'Radio 1 Dolenjska; ENA NM', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2017-05-29
+,,891987,97.6,MHz,RTV SLOVENIJA,TRENTA 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-04-06
+,,891988,95.7,MHz,RTV SLOVENIJA,TRENTA 2,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-04-06
+,,892004,105.5,MHz,RTV SLOVENIJA,VRANSKO,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2017-05-11
+,,892139,87.7,MHz,RTV SLOVENIJA,JEZERSKO 1,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-06-23
+,,892141,105.3,MHz,RTV SLOVENIJA,POHORJE,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-06-22
+,,892142,92.7,MHz,RTV SLOVENIJA,BIZELJSKO,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-06-22
+,,892159,105.5,MHz,RTV SLOVENIJA,CEROVEC,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2018-02-05
+,,892189,90.8,MHz,RTV SLOVENIJA,IZOLA 5,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-05-19
+,,892272,104.5,MHz,RADIO OGNJIŠČE d.o.o. Koper,KALVARIJA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2020-07-18
+,,892273,96.8,MHz,RADIO OGNJIŠČE d.o.o. Koper,LOŽ,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2020-07-15
+,,892274,103.7,MHz,RADIO CERKNO d.o.o.,JAVORNIK,"[{u'Program': u'RADIO ODMEV', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2020-07-18
+,,892348,97.8,MHz,RADIO 94 d.o.o. Postojna,LOŽ,"[{u'Program': u'R94', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2020-07-15
+,,892446,107.7,MHz,RTV SLOVENIJA,ČRNOMELJ,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2020-07-06
+,,892459,98.8,MHz,RTV SLOVENIJA,GOLO BRDO,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-07-06
+,,892464,104.1,MHz,RTV SLOVENIJA,GOLO BRDO,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2020-07-06
+,,892472,100.8,MHz,RTV SLOVENIJA,LJUBLJANA 3,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2015-02-18
+,,892477,87.6,MHz,RTV SLOVENIJA,MOZIRJE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-08-16
+,,892478,94.7,MHz,RTV SLOVENIJA,MOZIRJE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-08-16
+,,892479,96.2,MHz,RTV SLOVENIJA,MOZIRJE,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-08-16
+,,892514,100.8,MHz,RADIO CITY d.o.o.,TOPOLŠICA,"[{u'Program': u'RADIO CITY', u'Timesharing': None}]",2020-07-29
+,,892590,87.8,MHz,"RGL, d.o.o, Ljubljana",BLEJSKA DOBRAVA,"[{u'Program': u'RADIO SALOMON', u'Timesharing': None}]",2020-10-03
+,,892662,93.1,MHz,"ALPE ADRIA ""ZELENI VAL"" d.o.o.",POLŽEVO,"[{u'Program': u'RADIO ZELENI VAL', u'Timesharing': None}]",2018-10-13
+,,892662,105.3,MHz,"ALPE ADRIA ""ZELENI VAL"" d.o.o.",TREBNJE 2,"[{u'Program': u'RADIO ZELENI VAL', u'Timesharing': None}]",2018-10-13
+,,892718,96.2,MHz,RTV SLOVENIJA,BIZELJSKO,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-10-10
+,,892719,101.5,MHz,RTV SLOVENIJA,BIZELJSKO,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-10-10
+,,892727,89.8,MHz,"RADIO TRIGLAV JESENICE, D.O.O.",JESENICE,"[{u'Program': u'RADIO TRIGLAV', u'Timesharing': None}]",2020-11-21
+,,892728,101.5,MHz,"RADIO TRIGLAV JESENICE, D.O.O.",KRANJSKA GORA,"[{u'Program': u'RADIO TRIGLAV', u'Timesharing': None}]",2020-11-21
+,,892732,89.8,MHz,RADIO TEDNIK Ptuj d.o.o.,MAJŠPERK,"[{u'Program': u'RADIO PTUJ', u'Timesharing': None}]",2020-12-09
+,,892739,92.3,MHz,RTV SLOVENIJA,AJDOVŠČINA,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2020-11-14
+,,892740,92,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-12-11
+,,892741,94.1,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-12-12
+,,892742,104.3,MHz,RTV SLOVENIJA,BELI KRIŽ,"[{u'Program': u'RADIO KOPER /RADIO KP/', u'Timesharing': None}]",2020-12-11
+,,892743,87.8,MHz,RTV SLOVENIJA,CERKNO 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-11-30
+,,892744,102.5,MHz,RTV SLOVENIJA,CERKNO 2,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-11-30
+,,892745,98.9,MHz,RTV SLOVENIJA,FARA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-11-30
+,,892746,90,MHz,RTV SLOVENIJA,GRAHOVO,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-12-13
+,,892747,92.4,MHz,RTV SLOVENIJA,IDRIJA 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-11-30
+,,892748,88.9,MHz,RTV SLOVENIJA,IDRIJA 2,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-11-30
+,,892749,89.8,MHz,RTV SLOVENIJA,KANIN,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-12-11
+,,892750,91.6,MHz,RTV SLOVENIJA,KANIN,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-12-11
+,,892751,93.8,MHz,RTV SLOVENIJA,KANIN,"[{u'Program': u'RADIO SLOVENIJA, tretji program - PROGRAM ARS /ARS/', u'Timesharing': None}]",2020-12-11
+,,892752,92.6,MHz,RTV SLOVENIJA,KOČEVJE,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-12-11
+,,892753,89.6,MHz,RTV SLOVENIJA,KOZJE,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-12-11
+,,892754,96.7,MHz,RTV SLOVENIJA,KRANJSKA GORA,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-12-05
+,,892755,90,MHz,RTV SLOVENIJA,TRŽIČ 1,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2020-12-05
+,,892756,92.4,MHz,RTV SLOVENIJA,TRŽIČ 1,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2020-12-05
+27,Vzhod,892764,,,RTV SLOVENIJA,ČRNA 1,,2019-08-06
+27,Vzhod,892765,,,RTV SLOVENIJA,DRAVOGRAD,,2019-08-06
+27,Vzhod,892766,,,RTV SLOVENIJA,LJUBNO,,2019-08-07
+27,Vzhod,892767,,,RTV SLOVENIJA,LOVRENC,,2019-08-07
+27,Vzhod,892768,,,RTV SLOVENIJA,MOZIRJE,,2019-08-07
+27,Vzhod,892769,,,RTV SLOVENIJA,ROGAŠKA SLATINA,,2019-08-06
+27,Vzhod,892840,,,RTV SLOVENIJA,MALIČ LAŠKO,,2019-08-07
+,,892843,96.5,MHz,RADIO OGNJIŠČE d.o.o. Koper,RADLJE 1,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2020-12-22
+,,892851,89,MHz,RTV SLOVENIJA,GOLNIK 1,"[{u'Program': u'RADIO SLOVENIA INTERNATIONAL /Radio Si/', u'Timesharing': None}]",2018-02-05
+,,892861,105.1,MHz,RADIO CAPRIS d.o.o.,SLAVNIK,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2018-07-30
+,,892861,106.3,MHz,RADIO CAPRIS d.o.o.,KARLOVICA,"[{u'Program': u'RADIO CAPRIS', u'Timesharing': None}]",2018-07-30
+,,892874,102.4,MHz,RADIO OGNJIŠČE d.o.o. Koper,KARLOVICA,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2021-01-12
+,,892880,89.8,MHz,RTV SLOVENIJA,IZOLA 5,"[{u'Program': u'RADIO SLOVENIJA, drugi program - PROGRAM VAL 202 /VAL 202/', u'Timesharing': None}]",2015-08-22
+,,892881,106.4,MHz,"R GAMA - MM d.o.o., Ljubljana",KRIM,"[{u'Program': u'Radio Ekspres', u'Timesharing': None}]",2018-02-16
+,,892881,106.1,MHz,"R GAMA - MM d.o.o., Ljubljana",LJUBLJANA 6,"[{u'Program': u'Radio Ekspres', u'Timesharing': None}]",2018-02-16
+27,Vzhod,892933,,,RTV SLOVENIJA,KOZJE,,2021-03-01
+27,Vzhod,892934,,,RTV SLOVENIJA,LUČE 1,,2021-03-01
+,,892937,94.9,MHz,"RGL, d.o.o, Ljubljana",LJUBLJANA 3,"[{u'Program': u'RADIO VESELJAK SI', u'Timesharing': None}]",2021-01-24
+,,892946,558,kHz,RTV SLOVENIJA,MURSKA SOBOTA 1,"[{u'Program': u'Pomurski mad\u017earski radio - Muravid\xe9ki magyar r\xe1di\xf3', u'Timesharing': u'od 05:00 do 19:00'}, {u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': u'od 19:00 do 05:00'}]",2021-01-15
+27,Vzhod,892971,,,RTV SLOVENIJA,ŠENTJUR,,2021-03-01
+27,Zahod,892980,,,RTV SLOVENIJA,NANOS,,2019-08-19
+27,Vzhod,892982,,,RTV SLOVENIJA,POHORJE,,2019-08-06
+27,Vzhod,892983,,,RTV SLOVENIJA,PLEŠIVEC,,2019-08-06
+27,Vzhod,892992,,,RTV SLOVENIJA,BOČ,,2019-08-06
+27,Vzhod,892994,,,RTV SLOVENIJA,LENDAVA,,2019-08-06
+27,Vzhod,892996,,,RTV SLOVENIJA,PEČAROVCI,,2019-08-07
+27,Zahod,893017,,,RTV SLOVENIJA,SEŽANA,,2019-07-07
+27,Zahod,893018,,,RTV SLOVENIJA,ILIRSKA BISTRICA,,2019-07-07
+27,Zahod,893019,,,RTV SLOVENIJA,GOLO BRDO,,2019-07-07
+27,Zahod,893020,,,RTV SLOVENIJA,ČEPOVAN LOKVE,,2019-07-07
+27,Zahod,893021,,,RTV SLOVENIJA,ANHOVO,,2019-07-07
+27,Zahod,893022,,,RTV SLOVENIJA,AJDOVŠČINA,,2019-08-06
+27,Zahod,893024,,,RTV SLOVENIJA,CERKNO 1,,2019-08-06
+27,Zahod,893025,,,RTV SLOVENIJA,IDRIJA 2,,2019-08-06
+27,Zahod,893026,,,RTV SLOVENIJA,KOŠANA,,2019-08-06
+27,Zahod,893027,,,RTV SLOVENIJA,SLAVNIK,,2019-08-10
+27,Zahod,893028,,,RTV SLOVENIJA,SKALNICA,,2019-08-06
+27,Zahod,893029,,,RTV SLOVENIJA,PLANINA RAKEK,,2019-08-07
+27,Zahod,893030,,,RTV SLOVENIJA,MOVRAŽ,,2019-08-07
+27,Zahod,893031,,,RTV SLOVENIJA,JAVORJE,,2019-10-01
+27,Zahod,893032,,,RTV SLOVENIJA,TINJAN,,2019-08-06
+27,Zahod,893033,,,RTV SLOVENIJA,VREME 1,,2019-10-28
+27,Vzhod,893038,,,RTV SLOVENIJA,RUŠE,,2021-03-01
+,,893048,89.3,MHz,RADIO CENTER d.o.o.,KRŠKO,"[{u'Program': u'Radio Center Dolenjska', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2019-10-16
+,,893049,89.1,MHz,"RC SAVINJSKA, d.o.o.",GORA OLJKA,"[{u'Program': u'RADIO CENTER SAVINJSKA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2016-07-06
+,,893050,98.3,MHz,"RC SAVINJSKA, d.o.o.",MOZIRJE,"[{u'Program': u'RADIO CENTER SAVINJSKA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-03-13
+,,893052,102.4,MHz,RADIO CENTER d.o.o.,GROSUPLJE 3,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2014-07-21
+,,893052,102.4,MHz,RADIO CENTER d.o.o.,LJUBLJANA 3,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2014-07-21
+45,Ilirska Bistrica,893053,,,Zavod TV Galeja Ilirska Bistrica,KARLOVICA,,2012-12-22
+,,893054,88.7,MHz,RADIO CENTER d.o.o.,CELJE GOLOVEC,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2017-05-11
+,,893055,106.4,MHz,RADIO CENTER d.o.o.,TINJAN,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2017-12-04
+,,893055,93.8,MHz,RADIO CENTER d.o.o.,MARKOVEC,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2017-12-04
+,,893057,99.4,MHz,RADIO CENTER d.o.o.,CEROVEC,"[{u'Program': u'RADIO CENTER SLOVENIJA', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'RADIO CENTER', u'Timesharing': u'od 02:00 do 05:00'}]",2018-08-04
+27,Vzhod,893061,,,RTV SLOVENIJA,JURKLOŠTER,,2021-03-01
+27,Vzhod,893062,,,RTV SLOVENIJA,KAPLA,,2021-03-01
+27,Vzhod,893066,,,RTV SLOVENIJA,OŽBALT 2,,2021-03-01
+27,Zahod,893073,,,RTV SLOVENIJA,SEČOVLJE,,2021-03-01
+27,Vzhod,893076,,,RTV SLOVENIJA,SLADKI VRH,,2021-03-01
+27,Vzhod,893080,,,RTV SLOVENIJA,VITANJE,,2021-03-01
+27,Vzhod,893123,,,RTV SLOVENIJA,SOLČAVA,,2021-03-01
+,,893148,106.2,MHz,RADIO CERKNO d.o.o.,CERKNO 2,"[{u'Program': u'RADIO ODMEV', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2021-01-17
+,,893149,99.5,MHz,RADIO CERKNO d.o.o.,IDRIJA 2,"[{u'Program': u'RADIO ODMEV', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2021-01-17
+,,893193,648,kHz,"RADIO MURSKI VAL, d.o.o.",MURSKA SOBOTA 1,"[{u'Program': u'RADIO MURSKI VAL', u'Timesharing': None}]",2021-01-15
+52,med Ravnami na Koroškem in Celjem ,893235,,,"VTV Studio, d.o.o.",PLEŠIVEC,,2013-01-01
+52,med Ravnami na Koroškem in Celjem ,893236,,,"VTV Studio, d.o.o.",MOZIRJE,,2013-01-01
+52,med Ravnami na Koroškem in Celjem ,893237,,,"VTV Studio, d.o.o.",MALIČ LAŠKO,,2013-01-01
+,,893275,101.6,MHz,"RGL, d.o.o, Ljubljana",LJUBLJANA 3,"[{u'Program': u'RADIO SALOMON', u'Timesharing': None}]",2021-02-21
+,,893276,90.8,MHz,RTV SLOVENIJA,CERKNO 2,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-02-09
+,,893277,90.8,MHz,RTV SLOVENIJA,KUK,"[{u'Program': u'RADIO SLOVENIJA, prvi program - PROGRAM A1 /A1/', u'Timesharing': None}]",2021-02-09
+,,893361,96.4,MHz,RADIO SLOVENSKE GORICE d.o.o.,LENART,"[{u'Program': u'RADIO SLOVENSKE GORICE', u'Timesharing': None}]",2021-02-16
+,,893396,88.3,MHz,RADIO KOBARID d.o.o.,TOLMIN,"[{u'Program': u'Alpski val', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2021-03-29
+,,893432,91.8,MHz,RADIO OGNJIŠČE d.o.o. Koper,MURSKA SOBOTA 1,"[{u'Program': u'RADIO OGNJI\u0160\u010cE', u'Timesharing': None}]",2016-10-16
+,,893436,90.3,MHz,RADIO PRO 1 d.o.o.,SEŽANA,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-02-16
+,,893436,101.7,MHz,RADIO PRO 1 d.o.o.,VIDEŽ,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-02-16
+,,893436,101.7,MHz,RADIO PRO 1 d.o.o.,SEŽANA 2,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-02-16
+,,893437,97.3,MHz,RADIO PRO 1 d.o.o.,HRVATINI 2,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-12-17
+,,893437,99.6,MHz,RADIO PRO 1 d.o.o.,KOPER 2,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2013-12-17
+,,893438,99.1,MHz,RADIO PRO 1 d.o.o.,TRSTELJ,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2014-04-19
+,,893438,90.6,MHz,RADIO PRO 1 d.o.o.,ŠEMPETER PRI GORICI,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2014-04-19
+,,893438,90.1,MHz,RADIO PRO 1 d.o.o.,NOVA GORICA 1,"[{u'Program': u'Radio 1 Primorska; ENA NG', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2014-04-19
+,,893441,89.5,MHz,RADIO PRO 1 d.o.o.,ČRNOMELJ,"[{u'Program': u'Radio Odeon', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2019-10-16
+,,893442,97.7,MHz,"RADIO 1 CE, d.o.o.",CELJE GOLOVEC,"[{u'Program': u'Radio Bakla', u'Timesharing': u'od 00:00 do 02:00 in od 05:00 do 24:00'}, {u'Program': u'Radio 1', u'Timesharing': u'od 02:00 do 05:00'}]",2021-03-29
+32,Center,893461,,,RTV SLOVENIJA,BLED 2,,2021-03-01
+32,Center,893464,,,RTV SLOVENIJA,LIMBARSKA GORA,,2021-03-01
+32,Center,893466,,,RTV SLOVENIJA,LUBNIK,,2021-03-01
+32,Center,893468,,,RTV SLOVENIJA,ROB,,2021-03-01
+32,Center,893469,,,RTV SLOVENIJA,ROVT,,2021-03-01
+32,Center,893470,,,RTV SLOVENIJA,STRUŠKA DOLINA,,2021-03-01
+32,Center,893471,,,RTV SLOVENIJA,RADEČE 2,,2021-03-01
+32,Center,893472,,,RTV SLOVENIJA,STARI TRG,,2021-03-01
+32,Center,893476,,,RTV SLOVENIJA,KRIM,,2019-08-05
+32,Center,893477,,,RTV SLOVENIJA,KRVAVEC,,2019-08-05
+32,Center,893478,,,RTV SLOVENIJA,TRDINOV VRH,,2019-10-09
+32,Center,893479,,,RTV SLOVENIJA,KUM,,2019-08-06
+,,893502,100,MHz,RADIO ROBIN d.o.o.,TRSTELJ,"[{u'Program': u'RADIO ROBIN', u'Timesharing': None}]",2013-03-10
+,,893502,99.5,MHz,RADIO ROBIN d.o.o.,NOVA GORICA 1,"[{u'Program': u'RADIO ROBIN', u'Timesharing': None}]",2013-03-10
+,,893509,88.9,MHz,ZAVOD ZA INFORMIRANJE ORMOŽ,ORMOŽ,"[{u'Program': u'RADIO PRLEK', u'Timesharing': None}]",2021-04-22
+,,893548,100.2,MHz,RADIO 94 d.o.o. Postojna,ILIRSKA BISTRICA,"[{u'Program': u'R94', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2021-05-29
+,,893548,104.1,MHz,RADIO 94 d.o.o. Postojna,ILIRSKA BISTRICA 3,"[{u'Program': u'R94', u'Timesharing': u'od 00:00 do 06:00'}, {u'Program': u'Radio 94', u'Timesharing': u'od 06:00 do 24:00'}]",2021-05-29
+,,893584,101.1,MHz,"RADIO TRIGLAV JESENICE, D.O.O.",VOGEL,"[{u'Program': u'RADIO TRIGLAV', u'Timesharing': None}]",2021-06-12
+,,893605,97.2,MHz,RADIO CERKNO d.o.o.,IDRIJA 1,"[{u'Program': u'RADIO ODMEV', u'Timesharing': u'od 16:00 do 20:00'}, {u'Program': u'Primorski val', u'Timesharing': u'od 00:00 do 16:00 in od 20:00 do 24:00'}]",2021-05-29
